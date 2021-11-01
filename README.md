@@ -12,8 +12,6 @@ BayesC classifier is best among all as it gives less error rate for both the dat
 We get a linear decision boundary when both classes use same covariance matrix and a non linear decision boundary in case of BayesC classifier where covariance matrix is different for two classes.
 BayesA and BayesB classifier gives almost similar result in ROC curve and decision boundary.
 
-
-
 A non-parametric density estimation approach could have been used to solve this problem.
 Pros:
 Non-parametric denisty estimation, on the other hand, require fewer assumptions about the data, and consequently will prove better in situations where the true distribution is unknown or cannot be easily approximated using a probability distribution.
